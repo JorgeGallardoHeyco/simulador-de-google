@@ -8,6 +8,7 @@ const voiceSearchModalOpen = ()=>{
 	voiceRecognition();
 }
 
+// Comentario
 
 const voiceSearchModalClose = () =>{
 	voiceSearch.style.animation = "desaparecer 0.25s forwards";
